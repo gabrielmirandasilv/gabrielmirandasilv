@@ -14,4 +14,4 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 </div>
-<img src="https://visitcount.itsvg.in/api?id=gabrielmirandasilvi&label=Profile%20Views&color=0&icon=8&pretty=true" />
+
