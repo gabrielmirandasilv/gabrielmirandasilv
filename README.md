@@ -1,17 +1,23 @@
-## Oi sou o Gabriel, desenvolvedor de software e estudante de computação!
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
 
-<div align="center">
-    <img width="370em" align="center" src="https://i.pinimg.com/originals/74/63/59/74635989b770a38189fff31a8ef152ea.gif"/> 
+<h1>
+    <a>
+     <img align="center" width="80px" src="https://i.pinimg.com/originals/e9/26/16/e9261611196ebd98b2d76ab0627699a0.gif"></a>
+    <span>Gabriel Miranda</span>
+</h1>
+
+<p align="justify">Back-End Developer with a degree in Systems Analysis and Development.
+It all started when I was 13, using Python — or maybe I should go further back? Actually, it all began when I decided to have some fun making games and creating weird little worlds using RGSS in RPG Maker.
+My passion for computers is obvious. Games? Yeah, that’s not very exciting to talk about. I can tell you more than that — I love to drink coffee, and I adore my cat, Suse. Yes, her name is inspired by OpenSUSE. 
+<br>
+I definitely want to keep studying. My next goal is a degree in Computer Science. PhD? Of course — I just don’t know which field I want to dive into yet. Maybe life will show me the way</a>.</p>
+
+### GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmirandasilv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=true&order=2" height="119" alt="languages graph"  />
 </div>
 
-##
-<div align="center" style="display: inline_block">
-    <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmirandasilv&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-   
- <div align="center" style="display: inline_block"><br> 
-    <a href="https://www.linkedin.com/in/gabrielmirandasilv/"  target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- </div>
-</div>
+### Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/gabrielmirandasilv/)
