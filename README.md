@@ -1,4 +1,4 @@
-<img align="right" height="450" src="./imgs/Sem título.png">
+<img align="right" margin-top="100px" height="550" src="https://media.licdn.com/dms/image/v2/D5622AQHhyv25V6L64A/feedshare-shrink_800/feedshare-shrink_800/0/1703736772973?e=2147483647&v=beta&t=PQaL_zAArZDtj0rWADAH8rldq6nVj6nPTRW0w3q3TuU">
 
 <h1>
     <a>
@@ -15,7 +15,7 @@ I definitely want to keep studying. My next goal is a degree in Computer Science
 ## GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmirandasilv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="119" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmirandasilv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=kacho_ga&hide_border=true&order=2" height="119" alt="languages graph"  />
 </div>
 
 
