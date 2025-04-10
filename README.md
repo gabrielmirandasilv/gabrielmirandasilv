@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="450" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif">
+<img align="right" height="450" src="./imgs/Sem título.png">
 
 <h1>
     <a>
