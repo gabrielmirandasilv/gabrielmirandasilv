@@ -12,7 +12,7 @@ My passion for computers is obvious. Games? Yeah, that’s not very exciting to 
 <br>
 I definitely want to keep studying. My next goal is a degree in Computer Science. PhD? Of course — I just don’t know which field I want to dive into yet. Maybe life will show me the way</a>.</p>
 
-### GitHub Stats
+## GitHub Stats
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielmirandasilv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="119" alt="languages graph"  />
