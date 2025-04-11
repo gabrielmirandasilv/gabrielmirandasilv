@@ -7,10 +7,6 @@
 </h1>
 
 <p align="justify">Back-End Developer with a degree in Systems Analysis and Development.
-It all started when I was 13, using Python — or maybe I should go further back? Actually, it all began when I decided to have some fun making games and creating weird little worlds using RGSS in RPG Maker.
-My passion for computers is obvious. Games? Yeah, that’s not very exciting to talk about. I can tell you more than that — I love to drink coffee, and I adore my cat, Suse. Yes, her name is inspired by OpenSUSE. 
-<br>
-I definitely want to keep studying. My next goal is a degree in Computer Science. PhD? Of course — I just don’t know which field I want to dive into yet. Maybe life will show me the way</a>.</p>
 
 ### GitHub Stats
 
